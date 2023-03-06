@@ -14,9 +14,6 @@ This is a solution for the [Product Preview Card Component Challenge in Frontend
      - [Continuous Development](#Continuous Development)
 - [Author](#author)
 
-
-
-
 ## global vision
 
 ### The challenge
@@ -32,7 +29,7 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/marcosviniciuscolares/product-preview-card-challenge]
+- Solution URL: [https://github.com/Avantiermv/product-preview-challenge]
 - Live Website URL: [https://marcosviniciuscolares.github.io/product-preview-card-challenge/]
 ## My process
 
@@ -54,5 +51,4 @@ I will continue to improve my knowledge of HTML5 and CSS3. I'm already learning 
 ## Author
 
 
-- Frontend Mentor - [@marcosviniciuscolares](https://www.frontendmentor.io/profile/marcosviniciuscolares)
-- Discord - [MarcosVinicius2021#3999]
+- Frontend Mentor - [@Avantiermv](https://www.frontendmentor.io/profile/Avantiermv)
