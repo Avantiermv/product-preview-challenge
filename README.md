@@ -25,12 +25,12 @@ Users must be able to:
 
 ### print Screen
 
-![](./images/Captura%20da%20Web_29-1-2023_102315_.jpeg)
+![](./images/Captura%20da%20Web_6-3-2023_192856_avantiermv.github.io.jpeg)
 
 ### Links
 
 - Solution URL: [https://github.com/Avantiermv/product-preview-challenge]
-- Live Website URL: [https://marcosviniciuscolares.github.io/product-preview-card-challenge/]
+- Live Website URL: [https://avantiermv.github.io/product-preview-challenge/]
 ## My process
 
 ### Built with
